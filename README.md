@@ -1,5 +1,9 @@
 # Taskify - A To-Do List App
 
+![Portfolio Website Preview](./Taskify.png)
+
+## Overview
+
 Taskify is a simple and intuitive to-do list application built using React.js and Tailwind CSS. It utilizes React Context API for state management, providing a seamless user experience.
 
 ## Features
